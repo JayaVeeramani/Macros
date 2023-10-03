@@ -1,0 +1,25 @@
+Macro Updates
+
+The following Macros updated. Please take latest of the entire macros folder.
+
+I. ITEM NO AND LEGEND Upgraded
+
+1. Updated User Interface in such a way that user can select the order of the beams as needed.
+2. Add PartNumber TextBox which will automatically populate and same as the PartNumber displayed in BOM.
+3. Macro will rename the cutlist names as well in the format of PARTNUMBER-LEGEND-ITEM NO
+4. Programming Performance Improved.
+
+II. ITEM NO FOAM LENGTH & WIDTH INTERCHANGE
+
+1. Updated the Macro in such a way that the user need to select the face/plane perpendicular to thickness direction of the foam. This will avoid the sketch1 precondition and related error.
+2. Updated User Interface in such a way that user can select the insulation description from the Dropdown menu and partnumber will populate automatically. User can also write custom values as needed.
+
+
+III. ITEM NO FOR COVER PLATES
+
+1. Updated the Macro in such a way that the user need to select the face/plane perpendicular to thickness direction of the foam. This will avoid the sketch1 precondition and related error.
+2. Macro will update Description of all cutlist items to "12GA COVER PLATE".
+3. Macro will not assign the Item No for the PF Cover plates instead will ask for partnumber input from the user.
+4. Included Open Cover Plate assignment as well included to the macro.
+
+
